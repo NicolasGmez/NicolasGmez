@@ -30,5 +30,5 @@ and interactive map with optimal route rendering.
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Nicolás%20Gómez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-nicol%C3%A1s-g%C3%B3mez-3a4019399)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Nicolás%20Gómez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/juanngomez)
 [![Email](https://img.shields.io/badge/Email-jgomez405@unab.edu.co-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgomez405@unab.edu.co)
